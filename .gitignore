@@ -1,0 +1,12 @@
+# dataset is ~300 MB, download it from kaggle (see README)
+data/
+output/
+*.log
+screenshot_*.jpg
+result_*
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
